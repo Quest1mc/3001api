@@ -1,0 +1,14 @@
+{
+  "name": "quotes-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3001 -w db.json"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  },
+  "description": "this contains all the quotes",
+  "author": "Quest"
+}
